@@ -14,7 +14,7 @@ We later increased the complexity of this environment by freezing the aciton spa
 
 To build upon our system, we decided to try see if agents could learn Avalanche's Slush algorithm to come to consensus despite the presence of a byzantine agent. An environment with 4 honest agents and 1 byzantine agent was able to reliably reach consensus; however, 3 honest agents were unable to reliably reach consensus (50% win-rate) in the presence of 2 byzantine agents. After seeing how agents got stuck in a local minima when trying to learn slush, we decided to update our infrastructure to use multi-agent PPO, instead of simple DNNs. In addition, we pivoted the project to focus on training byzantine agents to focus on finding vulnterabilities in consensus protocols. 
 
-Eventually, we were able to build a multi-agent PPO environment that integrated an abstracted PK and a synchronous byzantine agreement consensus protocol. Byznatiena gents were able to successfully attack the protocl if we removed a round of communitation or removed equivocation checks by honest agents!
+Eventually, we were able to build a multi-agent PPO environment that integrated an abstracted version of PKI and a synchronous byzantine agreement consensus [protocol] (https://eprint.iacr.org/2018/1028.pdf). Byznatiena gents were able to successfully attack the protocl if we removed a round of communitation or removed equivocation checks by honest agents!
 
 Feel free to reach out for mroe information on this project, including relevant graphs, research reports, etc. 
 
