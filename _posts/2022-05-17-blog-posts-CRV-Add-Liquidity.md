@@ -15,7 +15,7 @@ When adding liquidity to a curve pool, there are two forms of slippage tolerance
 1. Slippage caused by being sandwiched 
 2. Slippage caused by adding an imbalanced ratio of tokens 
 
-For 1, generalized frontrunning bots can monitor the mempool for transactions that add liquidity. Protocols must be even more careful when they allow keepers to permssionlessly add pooled liquidity as they can easily be frontrun - see [FEI Postmortem](https://medium.com/immunefi/fei-protocol-flashloan-vulnerability-postmortem-7c5dc001affb). To prevent being frontrun, users can do the following:
+For 1, generalized frontrunning bots can monitor the mempool for transactions that add liquidity. Protocols must be even more careful when they allow keepers to permissionlessly add pooled liquidity as they can easily be frontrun - see [FEI Postmortem](https://medium.com/immunefi/fei-protocol-flashloan-vulnerability-postmortem-7c5dc001affb). To prevent being frontrun, users can do the following:
 - Use flashbots protect
 - Add liquidity only if the slippage does not cause an LP returned amount to deviate from a set oracle price - call `get_virtual_price` to return the expected LP and multiply by the oracle price. See this [chainlink article](https://blog.chain.link/using-chainlink-oracles-to-securely-utilize-curve-lp-pools/) for more info. 
 

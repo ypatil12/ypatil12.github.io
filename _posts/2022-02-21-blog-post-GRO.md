@@ -33,7 +33,7 @@ The GVT token behaves much like a standard Yearn Vault Token, except with oracle
 
 1. User deposits USDC/DAI/USDT
     - Curve prices are checked to not deviate some set percentage off the price of Chainlink Oracle
-    - The dollar amount added is calcualted as:
+    - The dollar amount added is calculated as:
         - `DollarAmt = 3Pool_LP * 3Pool_VirtualPrice`, where `3Pool_LP` is the amount of LP returned if the user had just deposited usdc/dai/usdt
 2. Contract checks the factor, or total amount of assets that back the GVT token
     - Just as for PWRD, this is based on totalAssets. 

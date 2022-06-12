@@ -7,7 +7,7 @@ venue: "Duke University"
 date: 2021-01-01
 ---
 
-TA for Cam Harvey's Innovation & Cryptoventures course at the Fuqua School of Business. 
+TA for [Cam Harvey's](https://people.duke.edu/~charvey/) Innovation & Cryptoventures course at the Fuqua School of Business. 
 
 I served as a technical advisor for the [course](https://faculty.fuqua.duke.edu/~charvey/Teaching/697_2021/697_Syllabus.htm) - primarily working on creating educational content. I also developed smart contract assignments, maintained our BTC and ETH (later ETH Classic) mining rigs, managed class token airdrops/participation, and oversaw the class investment fund.
 
