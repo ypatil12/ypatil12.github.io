@@ -24,7 +24,7 @@ Feel free to reach out for more information on this project, including relevant 
 
 [Results Summary](https://docs.google.com/presentation/d/1n4jvtWxaJaTn8I4tY7RwuNYydPY-bhVheQpvUw85a_Y/edit?usp=sharing)
 
-[Report 1](http://127.0.0.1:4000/files/LearningConsensus.pdf)
+[Report 1](https://ypatil12.github.io/files/LearningConsensus.pdf)
 
 [Report 2](https://docs.google.com/presentation/d/1Po8cs_iZW7M-6bx6R5ANghMItMP-s1Eb/edit?usp=sharing&ouid=106978351856045405483&rtpof=true&sd=true)
 
