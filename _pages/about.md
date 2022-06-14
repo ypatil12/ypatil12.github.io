@@ -15,7 +15,7 @@ I recently graduated from Duke, where I studied CS and PPE. In college, I spent 
 After I graduated, I had a shorts stint at [SteadyState Finance](https://www.steadystate.finance), a DeFi insurance startup, and Microsoft, as a PM on the Xbox. I now work at Ondo, where in addition to being a solidity engineer, I design our new products (some of my research can be found in Blog Post).
 
 What I'm Thinking About:
-- Applying [Everlasting Options](https://ondo.finance) to [RMMs](https://stanford.edu/~guillean/papers/rmms.pdf): WIP
+- Applying [Everlasting Options](https://www.paradigm.xyz/2021/05/everlasting-options) to [RMMs](https://stanford.edu/~guillean/papers/rmms.pdf): WIP
 - Using NFTs in the real world: [Post](https://ypatil12.github.io/posts/NFT-Verification/)
 
 What I'm Reading:
