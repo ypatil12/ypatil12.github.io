@@ -20,5 +20,5 @@ What I'm Thinking About:
 
 What I'm Reading:
 - Who Gets What and Why (Alvin Roth)
-- Options, Futures, and Other Derivatives (John Hull)
+- Options, Futures, and Other Derivatives (John Hull) [Notes](https://docs.google.com/document/d/1ZsboPHEuJAyOH3s_brXeuZckmWshyxhBInnOD99PO-0/edit?usp=sharing)
 
