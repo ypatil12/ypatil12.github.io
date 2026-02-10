@@ -3,22 +3,24 @@ permalink: /
 title: "Hey! I'm Yash"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm currently a Smart Contract Engineer at [Ondo Finance](https://ondo.finance). 
+I'm currently exploring ideas in agentic commerce and stablecoins.
 
-I recently graduated from Duke, where I studied CS and PPE. In college, I spent time interning as as software engineer building cryptocurrency exchanges at [AlphaPoint](https://alphapoint.com) and as a researcher developing an [Identity Protocol](https://ypatil12.github.io/projects/portfolio-2/) at Samsung Research America. At school, I ran the Duke Blockchain Lab, where I [built](https://ypatil12.github.io/teaching/house-course) a course taken by 40+ undergrads and TA'd an [MBA Crypto Course](https://ypatil12.github.io/teaching/innovation-cryptoventures). I also conducted [research](https://ypatil12.github.io/projects/portfolio-1/) at the intersection of consensus algorithms and reinforcement learning with Dr. Kartik Nayak. 
+Previously, I was at [Eigen labs], where I worked on the core protocol ($10B+ AUM) and led the [slashing](https://github.com/eigenfoundation/ELIPs/blob/main/ELIPs/ELIP-002.md) release, among other protocol initiatives. 
 
-After I graduated, I had a short stint at [SteadyState Finance](https://www.steadystate.finance), a DeFi insurance startup, and Microsoft, as a PM on the Xbox. I now work at Ondo, where in addition to being a solidity engineer, I help design our new products (some of my research can be found in Blog Post).
+Before that, I was at [Ondo Finance](https://ondo.finance), where I built [Flux Finance](https://fluxfinance.com), a lending protocol for tokenized securities, and worked on the earliest RWA products that now have $1B+ in TVL -- [OUSG](https://ondo.finance/ousg) and [USDY](https://ondo.finance/ousg)
 
-What I'm Thinking About:
-- Applying [Everlasting Options](https://www.paradigm.xyz/2021/05/everlasting-options) to [RMMs](https://stanford.edu/~guillean/papers/rmms.pdf): WIP
-- Using NFTs in the real world: [Post](https://ypatil12.github.io/posts/NFT-Verification/)
+I graduated from Duke in 2021, where I studied CS and PPE. While in college, I
+- Worked on SteadyState Finance, a Defi insurance startup
+- PM'd at Microsoft on the Xbox Team
+- Interned at [AlphaPoint](https://alphapoint.com) building a crypto exchange
+- Developed an [Identity Protocol](https://ypatil12.github.io/projects/portfolio-2/) at Samsung Research America
+- Ran the Duke Blockchain Lab, where I [built](https://ypatil12.github.io/teaching/house-course) a course taken by 40+ undergrads and TA'd an [MBA Crypto Course](https://ypatil12.github.io/teaching/innovation-cryptoventures)
+- Conducted [research](https://ypatil12.github.io/projects/portfolio-1/) at the intersection of consensus algorithms and reinforcement learning with Dr. Kartik Nayak.
 
 What I'm Reading:
-- Who Gets What and Why (Alvin Roth)
-- Options, Futures, and Other Derivatives (John Hull) [Notes](https://docs.google.com/document/d/1ZsboPHEuJAyOH3s_brXeuZckmWshyxhBInnOD99PO-0/edit?usp=sharing)
-
+- The Beginning of Infinity (David Deutsch)

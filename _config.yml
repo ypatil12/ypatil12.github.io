@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yash Patil"
 title_separator          : "-"
 name                     : &name "Yash Patil"
-description              : &description "Crypto Native Building in DeFi"
+description              : &description "Crypto Native Building in Fintech"
 url                      : https://ypatil12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ypatil12/ypatil12.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Yash Patil"
   avatar           : "profile.png"
-  bio              : "Crypto Native Building in DeFi"
-  location         : "Raleigh, NC"
+  bio              : "Crypto Native Building in Fintech"
+  location         : "Raleigh, NC / NYC"
   employer         :
   pubmed           : 
   googlescholar    : 
