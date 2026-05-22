@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently exploring ideas in agentic commerce and stablecoins.
+I'm currently exploring ideas in fintech (stablecoins, agentic commerce, tokenization) at South Park Commons. 
 
-Previously, I was at [Eigen labs], where I worked on the core protocol ($10B+ AUM) and led the [slashing](https://github.com/eigenfoundation/ELIPs/blob/main/ELIPs/ELIP-002.md) release, among other protocol initiatives. 
+Previously, I was at [Eigen labs](https://www.eigencloud.xyz), where I worked on the core protocol ($10B+ AUM) and led the [slashing](https://github.com/eigenfoundation/ELIPs/blob/main/ELIPs/ELIP-002.md) release, among other protocol initiatives. 
 
 Before that, I was at [Ondo Finance](https://ondo.finance), where I built [Flux Finance](https://fluxfinance.com), a lending protocol for tokenized securities, and worked on the earliest RWA products that now have $1B+ in TVL -- [OUSG](https://ondo.finance/ousg) and [USDY](https://ondo.finance/ousg)
 
